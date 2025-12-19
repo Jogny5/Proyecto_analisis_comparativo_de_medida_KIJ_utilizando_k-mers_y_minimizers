@@ -1,2 +1,3 @@
-# Proyecto_analisis_comparativo_de_medida_KIJ_utilizando_k-mers_y_minimizers
+# Proyecto analisis comparativo de medida KIJ utilizando k-mers y minimizers
 
+Jorge Fernández - Diego Gutiérrez
